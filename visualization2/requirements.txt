@@ -1,0 +1,23 @@
+Flask==3.0.0 
+Jinja2==3.1.2 
+MarkupSafe==2.1.3 
+Werkzeug==3.0.1 
+blinker==1.7.0 
+brotli==1.1.0 
+click==8.1.7 
+colorama==0.4.6 
+dash==2.1.0 
+dash-core-components==2.0.0 
+dash-html-components==2.0.0 
+dash-table==5.0.0 
+flask-compress==1.14 
+itsdangerous==2.1.2 
+packaging==23.2 
+plotly==5.18.0 
+tenacity==8.2.3
+dash-bootstrap-components
+nbconvert
+
+#pip install -r requirements.txt
+#Run below after all installation to make conversion
+#jupyter nbconvert --to script visual2.ipynb
